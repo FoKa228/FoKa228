@@ -1,4 +1,4 @@
-## Level designer on source engine, Manager of [RN Collective](https://github.com/rndevs-online), also porting maps from Goldsrc games to Source.
+## Level designer on source engine, Manager of [RN Collective](https://github.com/rn-collective), also porting maps from Goldsrc games to Source.
 
 ## 📚 Projects
 * Level design (Source Engine)
