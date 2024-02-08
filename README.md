@@ -16,8 +16,8 @@
     + [Counter-Strike: Classic](https://www.youtube.com/watch?v=fR9S3XorFLE 'Counter-Strike: Classic')
 * Video of my work
     + [The Lost Summit | Demo map: devforest3](https://www.youtube.com/watch?v=Dv7mN3hhlz0 'The Lost Summit | Demo map: devforest3')
-    + [Submerbe #1](https://www.youtube.com/watch?v=EYB6xVSgGVs 'Submerbe #1')
-    + [Submerbe #2](https://www.youtube.com/watch?v=w_tVE1zwbXI 'Submerbe #2')
-    + [Submerbe #3](https://www.youtube.com/watch?v=CJd99Y7uhXk 'Submerbe #3')
+    + [Submerge | TTT #1](https://www.youtube.com/watch?v=EYB6xVSgGVs 'Submerge | TTT #1')
+    + [Submerge | TTT #2](https://www.youtube.com/watch?v=w_tVE1zwbXI 'Submerge | TTT #2')
+    + [Submerge | TTT #3](https://www.youtube.com/watch?v=CJd99Y7uhXk 'Submerge | TTT #3')
     + [dm_catacombs](https://youtu.be/RKnKII9f7_k 'dm_catacombs')
 
