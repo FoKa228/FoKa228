@@ -1,3 +1,4 @@
+![screen1](https://github.com/FoKa228/FoKa228/assets/94736200/a288f0d2-2011-4154-9058-7b8dcc9515bc)
 ## Level designer on source engine, Manager of [RN Collective](https://github.com/rn-collective), also porting maps from Goldsrc games to Source.
 
 ## 📚 Projects
