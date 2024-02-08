@@ -19,5 +19,6 @@
     + [Submerge | TTT #1](https://www.youtube.com/watch?v=EYB6xVSgGVs 'Submerge | TTT #1')
     + [Submerge | TTT #2](https://www.youtube.com/watch?v=w_tVE1zwbXI 'Submerge | TTT #2')
     + [Submerge | TTT #3](https://www.youtube.com/watch?v=CJd99Y7uhXk 'Submerge | TTT #3')
+    + [Submerge | TTT #4 Testing trap](https://youtu.be/PogmqZQ-8eM 'Submerge | TTT #4 Testing trap')
     + [dm_catacombs](https://youtu.be/RKnKII9f7_k 'dm_catacombs')
 
