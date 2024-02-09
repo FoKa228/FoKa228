@@ -26,8 +26,8 @@
         + [Submerge | TTT #2](https://www.youtube.com/watch?v=w_tVE1zwbXI 'Submerge | TTT #2')
         + [Submerge | TTT #3](https://www.youtube.com/watch?v=CJd99Y7uhXk 'Submerge | TTT #3')
         + [Submerge | TTT #4 Testing trap](https://youtu.be/PogmqZQ-8eM 'Submerge | TTT #4 Testing trap')
-        + [Submerme | TTT #5 Easter Egg](https://youtu.be/8nJjONaUPbQ 'Submerme | TTT #5 Easter Egg')
-        + [Submerme | TTT #6 Animated texture](https://youtu.be/75nG_qP3PLw 'Submerme | TTT #6 Animated texture')
+        + [Submerпe | TTT #5 Easter Egg](https://youtu.be/8nJjONaUPbQ 'Submerme | TTT #5 Easter Egg')
+        + [Submerпe | TTT #6 Animated texture](https://youtu.be/75nG_qP3PLw 'Submerme | TTT #6 Animated texture')
     * Other
         + [dm_catacombs](https://youtu.be/RKnKII9f7_k 'dm_catacombs')
     * The contests I've participated
