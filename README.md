@@ -28,7 +28,7 @@
     + [Submerge | TTT #4 Testing trap](https://youtu.be/PogmqZQ-8eM 'Submerge | TTT #4 Testing trap')
     + [Submerme | TTT #5 Easter Egg](https://youtu.be/8nJjONaUPbQ 'Submerme | TTT #5 Easter Egg')
     + [Submerme | TTT #6 Animated texture](https://youtu.be/75nG_qP3PLw 'Submerme | TTT #6 Animated texture')
-    *Other
+    * Other
     + [dm_catacombs](https://youtu.be/RKnKII9f7_k 'dm_catacombs')
 
 ## 💬 Contacts
