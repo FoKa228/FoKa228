@@ -30,6 +30,7 @@
         + [Submerпe | TTT #6 Animated texture](https://youtu.be/75nG_qP3PLw 'Submerme | TTT #6 Animated texture')
     * Other
         + [dm_catacombs](https://youtu.be/RKnKII9f7_k 'dm_catacombs')
+        + [mu_factory_winter | Redesign](https://youtu.be/HonYHt0XfBc 'mu_factory_winter | Redesign')
     * The contests I've participated
         + [HEDG "Melon Racer" Contest - Map Showcase 19:22](https://www.youtube.com/watch?v=y6WwFrritHY 'HEDG "Melon Racer" Contest - Map Showcase 19:22')
 
