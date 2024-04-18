@@ -32,7 +32,7 @@
         + [dm_catacombs](https://youtu.be/RKnKII9f7_k 'dm_catacombs')
         + [mu_factory_winter | Redesign](https://youtu.be/HonYHt0XfBc 'mu_factory_winter | Redesign')
     * The contests I've participated
-        + [HEDG "Melon Racer" Contest - Map Showcase 19:22](https://www.youtube.com/watch?v=y6WwFrritHY 'HEDG "Melon Racer" Contest - Map Showcase 19:22')
+        + [HEDG "Melon Racer" Contest - Map Showcase 19:22](https://www.youtube.com/watch?v=y6WwFrritHY&t=1164s 'HEDG "Melon Racer" Contest - Map Showcase 19:22')
 
 ## 💬 Contacts
 * [Steam](https://steamcommunity.com/id/AndrewFokin 'Steam')
