@@ -28,6 +28,8 @@
         + [Submerge | TTT #4 Testing trap](https://youtu.be/PogmqZQ-8eM 'Submerge | TTT #4 Testing trap')
         + [Submerпe | TTT #5 Easter Egg](https://youtu.be/8nJjONaUPbQ 'Submerme | TTT #5 Easter Egg')
         + [Submerпe | TTT #6 Animated texture](https://youtu.be/75nG_qP3PLw 'Submerme | TTT #6 Animated texture')
+    * Beach Town
+        + [Beach Town #1](https://www.youtube.com/watch?v=oudLCj_Epck 'Beach Town #1')
     * Other
         + [dm_catacombs](https://youtu.be/RKnKII9f7_k 'dm_catacombs')
         + [mu_factory_winter | Redesign](https://youtu.be/HonYHt0XfBc 'mu_factory_winter | Redesign')
