@@ -12,14 +12,14 @@
     + [Factory Winter | Murder, Homigrad](https://steamcommunity.com/sharedfiles/filedetails/?id=3389912671 'Factory Winter | Murder, Homigrad')
     + [Drugbust Winter [GC/CS]](https://steamcommunity.com/sharedfiles/filedetails/?id=2898586766 'Drugbust Winter [GC/CS]')
     + [Winter Forest[TTT]](https://steamcommunity.com/sharedfiles/filedetails/?id=2890059800 'Winter Forest[TTT]')
-    
+
 * RN Collective
     + [Renewed Games](https://rndevs.online/connect?ip=game.rndevs.online:27015 'Renewed Games')
     + [The Lost Summit](https://youtu.be/b345Rcwi2E0 'The Lost Summit')
     + [Counter-Strike: Classic](https://www.youtube.com/watch?v=fR9S3XorFLE 'Counter-Strike: Classic')
 
 * Kiryha INC Center
-    + [Video #1](https://www.youtube.com/watch?v=mdsGMZWHfzc&t=315s, 'Video #1')
+    + [Video #1, by Кирюха](https://www.youtube.com/watch?v=mdsGMZWHfzc&t=315s, 'Video #1 by Кирюха')
 
 * Video of my work
     * The Lost Summit
