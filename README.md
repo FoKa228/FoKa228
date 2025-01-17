@@ -12,18 +12,23 @@
     + [Factory Winter | Murder, Homigrad](https://steamcommunity.com/sharedfiles/filedetails/?id=3389912671 'Factory Winter | Murder, Homigrad')
     + [Drugbust Winter [GC/CS]](https://steamcommunity.com/sharedfiles/filedetails/?id=2898586766 'Drugbust Winter [GC/CS]')
     + [Winter Forest[TTT]](https://steamcommunity.com/sharedfiles/filedetails/?id=2890059800 'Winter Forest[TTT]')
+    
 * RN Collective
     + [Renewed Games](https://rndevs.online/connect?ip=game.rndevs.online:27015 'Renewed Games')
     + [The Lost Summit](https://youtu.be/b345Rcwi2E0 'The Lost Summit')
     + [Counter-Strike: Classic](https://www.youtube.com/watch?v=fR9S3XorFLE 'Counter-Strike: Classic')
+
 * Kiryha INC Center
     + [Video #1](https://www.youtube.com/watch?v=mdsGMZWHfzc&t=315s, 'Video #1')
+
 * Video of my work
     * The Lost Summit
         + [The Lost Summit | Demo map: devforest3](https://www.youtube.com/watch?v=Dv7mN3hhlz0 'The Lost Summit | Demo map: devforest3')
+
     * Counter Strike: Classic
         + [Counter Strike: Classic | Testing blood decal and particle](https://youtu.be/MSqw8WGrCmk 'Counter Strike: Classic | Testing blood decal and particle')
         + [Counter Strike: Classic | Ported de_vertigo](https://youtu.be/mgJDPJnLfqg 'Counter Strike: Classic | Ported de_vertigo')
+
     * Submerge | TTT
         + [Submerge | TTT #1](https://www.youtube.com/watch?v=EYB6xVSgGVs 'Submerge | TTT #1')
         + [Submerge | TTT #2](https://www.youtube.com/watch?v=w_tVE1zwbXI 'Submerge | TTT #2')
@@ -31,14 +36,17 @@
         + [Submerge | TTT #4 Testing trap](https://youtu.be/PogmqZQ-8eM 'Submerge | TTT #4 Testing trap')
         + [Submerпe | TTT #5 Easter Egg](https://youtu.be/8nJjONaUPbQ 'Submerme | TTT #5 Easter Egg')
         + [Submerпe | TTT #6 Animated texture](https://youtu.be/75nG_qP3PLw 'Submerme | TTT #6 Animated texture')
+
     * Beach Town
         + [Beach Town #1](https://www.youtube.com/watch?v=oudLCj_Epck 'Beach Town #1')
+
     * Factory Winter
         + [mu_factory_winter | Redesign](https://youtu.be/HonYHt0XfBc 'mu_factory_winter | Redesign')
         + [Factory Winter | Final](https://youtu.be/0dLi2_FTcaI 'Factory Winter | Final')
+
     * Other
         + [dm_catacombs](https://youtu.be/RKnKII9f7_k 'dm_catacombs')
-        
+
     * The contests I've participated
         + [HEDG "Melon Racer" Contest - Map Showcase 19:22](https://www.youtube.com/watch?v=y6WwFrritHY&t=1164s 'HEDG "Melon Racer" Contest - Map Showcase 19:22')
         + [Creepy room for contest](https://www.youtube.com/watch?v=TEv6AXZ-0gw 'Creepy room for contest') 
